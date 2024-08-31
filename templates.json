@@ -2604,7 +2604,7 @@
           "name": "PGID"
         }
       ],
-      "image": "linuxserver/openvpn-as:latest",
+      "image": "openvpn/openvpn-as:latest",
       "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/openvpn-as-icon.png",
       "name": "openvpn-as",
       "platform": "linux",
